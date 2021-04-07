@@ -13,16 +13,16 @@ Some problem solving using C programming language
 
 6. Write a function that returns the sum of the following series where x and n are passed to the function as argument.
 
-1 - x2/2! + x4/4! - x6/6! + …….xn/n! 
+       1 - x^2/2! + x^4/4! - x^6/6! + …….x^n/n! 
 
 7. Write a C program to print the following pattern using while loop where row number is input from user: \
-For row = 5 output will be \
+For row = 5 output will be
 
 1: AA \
 2: AABB \
 3: AABBCC \
 4: AABBCCDD \
-5: AABBCCDDEE \
+5: AABBCCDDEE
 
 8. Define a structure called hotel_info that will describe the following information. Hotel name, address, room type, rent per day using hotel_info, declare an array hotel[structure variable] with 50 elements and write a full  program to read the information of all 50 hotels and print out hotels with room charges less than a  given number. 
 
